@@ -1,0 +1,24 @@
+
+.searchPage{
+    width: 100%;;
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.1rem;
+}
+
+span{
+    color: red;
+}
+
+.searchNews{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.3rem;
+}
